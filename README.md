@@ -1,2 +1,2 @@
 
-# finding a pseudorandom number in cmd'
+# finding a pseudorandom number in cmd
