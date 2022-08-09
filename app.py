@@ -9,6 +9,9 @@ def randValue():
     n = randrange(firstNumber, secondNumber)
     return n
 
+def test():
+    pass
+
 print("WELCOME~!\nIt's FIND NUMBER GAME")
 print('I will think, about number and you have to guess what number it is.')
 print('Oh, I almost forgot. You can create numeric range default will be 1 to 100')
